@@ -12,6 +12,8 @@ A polyglot messaging service.
 [![Flattr this](http://api.flattr.com/button/flattr-badge-large.png)](http://flattr.com/thing/1154379/Sockethub)
 
 # About
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/sockethub/sockethub.svg)](https://greenkeeper.io/)
 Sockethub is a polyglot (speaking many different protocols and APIs) messaging service for social and other interactive messaging applications. Not only does it assist [unhosted](http://unhosted.org) and [noBackend](http://nobackend.org) web application developers by providing server-independent, server-side functionality, but it also can be used as a back-end tool (invisible to the user) for many different applications, large and small.
 
 Example uses of sockethub are: writing and receiving messages (SMTP, Facebook, Twitter), instant messaging (XMPP, IRC, MSN, FB Messenger, Hangouts), discovery (WebFinger, RDF(a)). The architecture of sockethub is extensible and supports easy implementation of additional 'platforms' to carry out tasks, sockethub can be run on your own server, or provided as a service by a service provider, or app store.
